@@ -1,7 +1,7 @@
 import DropdownFooter from "./DropdownFooter";
 const Footer = () => {
   return (
-    <div className="text-white mb-10 mt-[124px]  max-[2000px]:ms-[420px] max-[1900px]:ms-[480px]  max-[1500px]:ms-[300px]">
+    <div className="text-white mb-10 mt-[124px] max-[2500px]:ms-[700px] max-[2400px]:ms-[660px] max-[2300px]:ms-[560px] max-[2200px]:ms-[540px] max-[2100px]:ms-[500px] max-[2000px]:ms-[420px] max-[1900px]:ms-[480px] max-[1800px]:ms-[380px] max-[1700px]:ms-[400px] max-[1600px]:ms-[330px] max-[1500px]:ms-[300px]">
       <footer className="flex place-content-center gap-[140px]  mb-10 ">
         <div className="flex flex-col pt-20">
           <div className="text-[18px] font-bold mb-[18px]">Components</div>

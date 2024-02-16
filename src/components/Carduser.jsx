@@ -5,7 +5,7 @@ import illaflow from "/public/img/illaflow.webp";
 const Carduser = () => {
   return (
     <div className="">
-      <div className="text-white text-center  max-[2000px]:ms-[300px] max-[1900px]:ms-[460px]  max-[1500px]:ms-[280px]">
+      <div className="text-white text-center max-[2500px]:ms-[300px] max-[2400px]:ms-[300px] max-[2300px]:ms-[300px] max-[2200px]:ms-[300px] max-[2100px]:ms-[300px] max-[2000px]:ms-[300px] max-[1900px]:ms-[460px] max-[1800px]:ms-[440px] max-[1700px]:ms-[400px] max-[1600px]:ms-[360px] max-[1500px]:ms-[280px]">
         <div
           className="text-[40px] font-bold"
           data-aos="fade-up"
@@ -28,7 +28,7 @@ const Carduser = () => {
         </div>
       </div>
 
-      <div className="container ms-[740px]  max-[2000px]:ms-[500px] max-[1900px]:ms-[540px]  max-[1500px]:ms-[280px] text-white mt-[6em]">
+      <div className="container ms-[740px] max-[2500px]:ms-[760px] max-[2400px]:ms-[720px] max-[2300px]:ms-[620px] max-[2200px]:ms-[600px] max-[2100px]:ms-[560px] max-[2000px]:ms-[500px] max-[1900px]:ms-[540px] max-[1800px]:ms-[440px] max-[1700px]:ms-[400px] max-[1600px]:ms-[300px] max-[1500px]:ms-[280px] text-white mt-[6em]">
         <div className="flex flex-col gap-[32px]">
           <div
             className=" bg-[#121212] p-[49px] w-[90%] rounded-[30px]"
