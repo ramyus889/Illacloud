@@ -15,7 +15,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px]"
-                src="/image_generate_content.webp"
+                src="/public/img/image_generate_content.webp"
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -33,7 +33,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px]"
-                src="/ai_voice_content.webp"
+                src={"/public/img/ai_voice_content.webp"}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -51,7 +51,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px] mt-20"
-                src="/cms_bg.webp"
+                src="/public/img/cms_bg.webp"
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -69,7 +69,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px]"
-                src="/crm_content.webp"
+                src={"/public/img/crm_content.webp"}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -87,7 +87,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px] "
-                src="/admin_content.webp"
+                src={"/public/img/admin_content.webp"}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -105,7 +105,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px] "
-                src="/dashboard_content.webp"
+                src={"/public/img/dashboard_content.webp"}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
