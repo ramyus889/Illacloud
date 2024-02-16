@@ -1,7 +1,7 @@
 const Logo = () => {
   return (
     <div
-      className="mt-[200px] mb-56 max-[2500px]:ms-[300px] max-[2400px]:ms-[300px] max-[2300px]:ms-[300px] max-[2200px]:ms-[300px] max-[2100px]:ms-[300px] max-[2000px]:ms-[300px] max-[1900px]:ms-[460px] max-[1800px]:ms-[440px] max-[1700px]:ms-[400px] max-[1600px]:ms-[360px] max-[1500px]:ms-[300px]"
+      className="mt-[200px] mb-56 max-[2500px]:ms-[300px] max-[2400px]:ms-[300px] max-[2300px]:ms-[300px] max-[2200px]:ms-[300px] max-[2100px]:ms-[300px] max-[2000px]:ms-[300px] max-[1900px]:ms-[460px] max-[1800px]:ms-[440px] max-[1700px]:ms-[400px] max-[1600px]:ms-[360px] max-[1500px]:ms-[50px]"
       data-aos="fade-up"
       data-aos-anchor-placement="center-bottom"
       data-aos-duration="1500"
