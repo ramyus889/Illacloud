@@ -1,3 +1,7 @@
+import step1 from "../public/img/step1.webp";
+import step2 from "../public/img/step2.webp";
+import step3 from "../public/img/step3.webp";
+import illaflow from "../public/img/illaflow.webp";
 const Carduser = () => {
   return (
     <div className="">
@@ -33,11 +37,7 @@ const Carduser = () => {
           >
             <div className="flex gap-[40px]">
               <div className="">
-                <img
-                  className="w-[900px]"
-                  src="/public/img/step1.webp"
-                  alt=""
-                />
+                <img className="w-[900px]" src={step1} alt="" />
               </div>
               <div className="">
                 <div className="text-[36px] font-bold leading-[44px]">
@@ -80,11 +80,7 @@ const Carduser = () => {
                 </div>
               </div>
               <div className="">
-                <img
-                  className="w-[900px]"
-                  src="/public/img/step2.webp"
-                  alt=""
-                />
+                <img className="w-[900px]" src={step2} alt="" />
               </div>
             </div>
           </div>
@@ -96,11 +92,7 @@ const Carduser = () => {
           >
             <div className="flex gap-[40px]">
               <div className="">
-                <img
-                  className="w-[900px]"
-                  src="/public/img/step3.webp"
-                  alt=""
-                />
+                <img className="w-[900px]" src={step3} alt="" />
               </div>
               <div className="">
                 <div className="text-[36px] font-bold leading-[44px]">
@@ -143,11 +135,7 @@ const Carduser = () => {
                 </div>
               </div>
               <div className="">
-                <img
-                  className="w-[900px]"
-                  src="/public/img/illaflow.webp"
-                  alt=""
-                />
+                <img className="w-[900px]" src={illaflow} alt="" />
               </div>
             </div>
           </div>
