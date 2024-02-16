@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="">
+    <div className="overflow-x-auto">
       <Header />
       <Main />
       <Carouseluser />
