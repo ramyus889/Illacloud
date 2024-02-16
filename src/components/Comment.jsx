@@ -1,6 +1,6 @@
 const Comment = () => {
   return (
-    <div className="container ms-[665px]  text-white mt-[6em]">
+    <div className="container ms-[665px]  text-white mt-[6em]  max-[2000px]:ms-[420px] max-[1900px]:ms-[480px]  max-[1500px]:ms-[220px]">
       <div className="text-[40px] text-center font-bold mt-[200px] mb-[49px]">
         User Testimonials
       </div>

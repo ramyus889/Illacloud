@@ -1,7 +1,7 @@
 const Logo = () => {
   return (
     <div
-      className="mt-[200px] mb-56 "
+      className="mt-[200px] mb-56  max-[2000px]:ms-[300px] max-[1900px]:ms-[460px]  max-[1500px]:ms-[300px]"
       data-aos="fade-up"
       data-aos-anchor-placement="center-bottom"
       data-aos-duration="1500"

@@ -1,34 +1,8 @@
 const Main = () => {
   return (
     <div className="text-white">
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        className="-z-[100] absolute top-0 opacity-50"
-        width="100%"
-        height="142%"
-      >
-        <defs>
-          <pattern
-            id="p"
-            width="100"
-            height="100"
-            patternUnits="userSpaceOnUse"
-            patternTransform="scale(0.55)"
-          >
-            <path
-              data-color="outline"
-              fill="none"
-              stroke="#333333"
-              strokeWidth="2.06"
-              d="M50 0v100M100 50H0"
-            ></path>
-          </pattern>
-        </defs>
-        <rect fill="#000000" width="100%" height="100%"></rect>
-        <rect fill="url(#p)" width="100%" height="100%"></rect>
-      </svg>
       <div
-        className="z-[50]"
+        className="z-[50]  max-[2000px]:ms-[300px] max-[1900px]:ms-[460px]  max-[1500px]:ms-[350px]"
         data-aos="fade-up"
         data-aos-anchor-placement="bottom-bottom"
         data-aos-duration="2000"
@@ -55,7 +29,7 @@ const Main = () => {
           </button>
         </div>
         <div className="text-[80px] font-extrabold text-center leading-[90px] mt-[1em]">
-          Create business apps like <br /> assembling blocks
+          Create business apps <br /> assembling blocks
         </div>
         <div className="text-center mt-3">
           Build

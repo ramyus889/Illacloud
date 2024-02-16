@@ -1,6 +1,6 @@
 const HeadFooter = () => {
   return (
-    <div className="text-center  font-bold text-white mt-[324px]">
+    <div className="text-center  font-bold text-white mt-[324px]  max-[2000px]:ms-[280px] max-[1900px]:ms-[460px]  max-[1500px]:ms-[320px]">
       <div className="text-[40px]">Start Building Apps with ILLA Cloud</div>
       <div className="text-[14px] pt-[24px]">
         Any internal tool you need can be built using ILLA Cloud in 1 minute.
