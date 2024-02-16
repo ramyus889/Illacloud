@@ -1,7 +1,7 @@
-import step1 from "../public/img/step1.webp";
-import step2 from "../public/img/step2.webp";
-import step3 from "../public/img/step3.webp";
-import illaflow from "../public/img/illaflow.webp";
+import step1 from "/public/img/step1.webp";
+import step2 from "/public/img/step2.webp";
+import step3 from "/public/img/step3.webp";
+import illaflow from "/public/img/illaflow.webp";
 const Carduser = () => {
   return (
     <div className="">
