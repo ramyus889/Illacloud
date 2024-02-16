@@ -5,6 +5,12 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components-ui/ui/carousel";
+import img1 from "/public/img/image_generate_content.webp";
+import img2 from "/public/img/ai_voice_content.webp";
+import img3 from "/public/img/cms_bg.webp";
+import img4 from "/public/img/crm_content.webp";
+import img5 from "/public/img/admin_content.webp";
+import img6 from "/public/img/dashboard_content.webp";
 
 const UserCarousel = () => {
   return (
@@ -15,7 +21,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px]"
-                src={"/public/img/image_generate_content.webp"}
+                src={img1}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -33,7 +39,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px]"
-                src={"/public/img/ai_voice_content.webp"}
+                src={img2}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -51,7 +57,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px] mt-20"
-                src={"/public/img/cms_bg.webp"}
+                src={img3}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -69,7 +75,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px]"
-                src={"/public/img/crm_content.webp"}
+                src={img4}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -87,7 +93,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px] "
-                src={"/public/img/admin_content.webp"}
+                src={img5}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
@@ -105,7 +111,7 @@ const UserCarousel = () => {
             <div className="">
               <img
                 className="w-[80%] ms-[7.4em] rounded-[30px] "
-                src={"/public/img/dashboard_content.webp"}
+                src={img6}
                 alt=""
               />
               <div className="flex float-right me-[11em]">
